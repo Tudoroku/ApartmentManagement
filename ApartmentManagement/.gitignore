@@ -1,0 +1,27 @@
+# CLion / IntelliJ
+.idea/
+*.iml
+
+# CMake build directories
+cmake-build-*/
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Compiled files
+*.exe
+*.dll
+*.o
+*.obj
+
+# Logs
+*.log
+
+# Coverage
+*.gcda
+*.gcno
+*.gcov
+
+# OS generated files
+.DS_Store
+Thumbs.db
