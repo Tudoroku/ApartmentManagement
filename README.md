@@ -115,3 +115,14 @@ Run it:
 Tests cover validation, repository implementations, error handling, CRUD, sorting/filtering, reports, undo, notification lists, probabilistic operation failures, CSV export, and file persistence.
 
 **Note:** The existing `run_tests` target uses GCC-style `--coverage` flags; MSVC users may need to adjust the test target's compiler/linker options. Tests are invoked directly as an executable (they are not registered with CTest).
+
+
+
+## Screenshots
+
+### Main Window
+![Apartment Residents Manager - Main Window](images/ui.png)
+
+### Reports
+![Apartment Residents Manager - Reports](images/report.png)
+  
